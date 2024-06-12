@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sighteratic.github.io/sitemap.html
+Sitemap: https://sighteratic.github.io/app/sitemap.html
+Sitemap: https://sighteratic.github.io/assets/sitemap.html
+Sitemap: https://sighteratic.github.io/css/sitemap.html
+Sitemap: https://sighteratic.github.io/includes/sitemap.html
+Sitemap: https://sighteratic.github.io/item/sitemap.html
+Sitemap: https://sighteratic.github.io/src/sitemap.html
